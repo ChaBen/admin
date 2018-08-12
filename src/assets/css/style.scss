@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+.el-aside {
+  min-width: 300px;
+  background-color: #545c64;
+  min-height: 100vh;
+  .el-menu {
+    border-right: 0;
+  }
+  .logo-container {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    background-color: #434A50;
+  }
+}
+
+// Login
+.login {
+  .card-header {
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    padding: 1em 0;
+  }
+}
